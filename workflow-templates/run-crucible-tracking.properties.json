@@ -1,0 +1,4 @@
+{
+    "name": "Crucible Project Management Workflow",
+    "description": "This workflow automatically adds PRs and Issues to the Crucible Tracking project"
+}
